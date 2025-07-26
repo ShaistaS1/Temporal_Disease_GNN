@@ -1,0 +1,15 @@
+# Ignore virtual environments
+venv/
+.venv/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# VSCode settings
+.vscode/
+
+# Model files
+*.pt
+*.pkl
